@@ -1,1 +1,1 @@
-# algorithms
+# useful algorihtms for coompetitive programming
